@@ -13,6 +13,7 @@
 		57BD4DEC265A1E51008025D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57BD4DEA265A1E51008025D7 /* Main.storyboard */; };
 		57BD4DEE265A1E55008025D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 57BD4DED265A1E55008025D7 /* Assets.xcassets */; };
 		57BD4DF1265A1E55008025D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57BD4DEF265A1E55008025D7 /* LaunchScreen.storyboard */; };
+		57BD4DF9265A4F69008025D7 /* TaipeiSansTCBeta-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 57BD4DF8265A4F69008025D7 /* TaipeiSansTCBeta-Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		57BD4DED265A1E55008025D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		57BD4DF0265A1E55008025D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		57BD4DF2265A1E55008025D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57BD4DF8265A4F69008025D7 /* TaipeiSansTCBeta-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "TaipeiSansTCBeta-Regular.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		57BD4DE3265A1E51008025D7 /* 數學運算小遊戲 */ = {
 			isa = PBXGroup;
 			children = (
+				57BD4DF8265A4F69008025D7 /* TaipeiSansTCBeta-Regular.ttf */,
 				57BD4DE4265A1E51008025D7 /* AppDelegate.swift */,
 				57BD4DE6265A1E51008025D7 /* SceneDelegate.swift */,
 				57BD4DE8265A1E51008025D7 /* ViewController.swift */,
@@ -127,6 +130,7 @@
 				57BD4DF1265A1E55008025D7 /* LaunchScreen.storyboard in Resources */,
 				57BD4DEE265A1E55008025D7 /* Assets.xcassets in Resources */,
 				57BD4DEC265A1E51008025D7 /* Main.storyboard in Resources */,
+				57BD4DF9265A4F69008025D7 /* TaipeiSansTCBeta-Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
